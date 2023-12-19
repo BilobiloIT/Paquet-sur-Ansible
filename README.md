@@ -3,6 +3,8 @@
 
 --En tout premier lieu, faire une reservation IP sur https://gipens.ens-lyon.fr/, la machine prendra le suffix DNS du vlan en question--
 ![image](https://github.com/BilobiloIT/Paquet-sur-Ansible/assets/118860544/2cbcd1cf-3df3-4d01-b906-8f5efe4f982d)
+
+
 --Ne pas oublier de passer la configuration réseau en manuel sur la machine--
 
 
