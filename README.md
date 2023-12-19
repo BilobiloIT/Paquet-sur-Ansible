@@ -22,3 +22,8 @@
 
 *Il n'y a pas besoin de renseigner .dsi.ens-lyon.fr
 
+# Après toutes ces étapes essayer de ping la machine et de nslookup pour voir si tout fonctionne
+
+### 4ème étape : La création du paquet à déployer, pour cette exemple j'ai utilisé le paquet calendrier connu sous le nom **Calendar**
+
+
