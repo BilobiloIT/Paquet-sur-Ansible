@@ -2,7 +2,8 @@
 # Comment déployer des paquets via Ansible 
 
 --En tout premier lieu, faire une reservation IP sur https://gipens.ens-lyon.fr/, la machine prendra le suffix DNS du vlan en question--
-![image](https://github.com/BilobiloIT/Paquet-sur-Ansible/assets/118860544/2cbcd1cf-3df3-4d01-b906-8f5efe4f982d)
+![image](https://github.com/BilobiloIT/Paquet-sur-Ansible/assets/118860544/67c39c3a-0f19-4e2d-a7f0-4e36aefcc786)
+
 
 
 --Ne pas oublier de passer la configuration réseau en manuel sur la machine--
