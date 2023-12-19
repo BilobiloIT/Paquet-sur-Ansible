@@ -44,7 +44,7 @@ Une fois le dossier tasks crée, la création d'un fichier texte `main.yml` est 
 
 Pour mon exemple, le module* que j'ai utilisé est apt, donc mon fichier `main.yml` ressemble à :  ![image](https://github.com/BilobiloIT/Paquet-sur-Ansible/assets/118860544/a3210d3a-daf4-4824-b1b8-f22ee2fff10e)
 
-<sub>Les modules sont file, copy, apt, service, command, shell, cron</sub>
+<sub>*Les modules sont file, copy, apt, service, command, shell, cron</sub>
 
 
 
