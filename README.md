@@ -46,6 +46,16 @@ Pour mon exemple, le module* que j'ai utilisé est apt, donc mon fichier `main.y
 
 <sub>*Les modules sont file, copy, apt, service, command, shell, cron</sub>
 
+## 5ème étape : Déploiement du paquet de manière manuel 
+Pour lancer un déploiement de manière manuel il faudra renseigner un autre fichier en yaml.
+ - Aller dans /etc/ansible/playbooks/manuel
+ - Crée un fichier texte
+ - Renseigner de la même manière le fichier que dans `/etc/ansible/playbooks/SGP.yml`, rajouter en commentaire dans la première ligne la commande complète qui est *ansible-playbook [CheminVerssLeFichier.yml]*
+
+
+Donc pour mon calendar : ![image](https://github.com/BilobiloIT/Paquet-sur-Ansible/assets/118860544/a2e52113-b41b-45d6-9fe2-73f7e26e9b88)
+
+
 
 
 
