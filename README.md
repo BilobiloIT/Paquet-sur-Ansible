@@ -36,6 +36,11 @@
    
 <sup>*le dossier files correspond à des fichiers à copier sur les hôtes, il n'est pas nécessaire qu'il contienne quelque chose</sup>
 
-<sup>*le dossier task doit contenir les tâches à exécuter </sup>
+<sup>*le dossier tasks doit contenir les tâches à exécuter </sup>
+
+Une fois le dossier tasks crée, la création d'un fichier texte `main.yml` est nécessaire, ce sera ce fichier qui sera exécuté* lors du déclenchement de la tâche
+
+Pour mon exemple, le module* que j'ai utilisé est apt, donc mon fichier `main.yml` ressemble à :  ![image](https://github.com/BilobiloIT/Paquet-sur-Ansible/assets/118860544/a3210d3a-daf4-4824-b1b8-f22ee2fff10e)
+
 
 
