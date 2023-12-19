@@ -12,4 +12,4 @@
 1ère étape : Mettre la clé publique SSH d'Ansible sur la machine dans /root/.ssh/authorized_keys, trouvable sur le serveur lxc-ansible dans /etc/ansible/ssh-key/ansible.pub.
 
 
-2ème étape : Faire
+2ème étape : Intégrer la machine dans le serveur grâce au script ./ansible/maintenance.sh host [Nom_De_La_Machine] et choisir le groupe dans lequelle on mets la machine
