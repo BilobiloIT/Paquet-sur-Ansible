@@ -55,6 +55,8 @@ Pour lancer un déploiement de manière manuel il faudra renseigner un autre fic
 
 Donc pour mon calendar : ![image](https://github.com/BilobiloIT/Paquet-sur-Ansible/assets/118860544/a2e52113-b41b-45d6-9fe2-73f7e26e9b88)
 
+puis je lance la ligne de commande *ansible-playbook /etc/ansible/playbooks/manuel/calendartest.yml*
+
 
 
 
