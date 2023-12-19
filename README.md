@@ -16,5 +16,6 @@
 
 
 3ème étape : Aller dans /etc/ansible/hosts, pour que cela fonctionne, la machine doit être renseignée sous le format [Nom_De_La_Machine].[Dns] :  ![image](https://github.com/BilobiloIT/Paquet-sur-Ansible/assets/118860544/0ac3bf7b-a9f9-42ba-908a-cf37209f5007)*
+
 *Il n'y a pas besoin de renseigner .dsi.ens-lyon.fr
 
