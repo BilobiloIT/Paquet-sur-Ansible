@@ -25,12 +25,13 @@
 # Après toutes ces étapes essayer de ping la machine et de nslookup pour voir si tout fonctionne
 
 ### 4ème étape : La création du paquet à déployer, pour cette exemple j'ai utilisé le paquet calendrier connu sous le nom ***Calendar***
-__Il existe des formats déjà présent, je penses qu'il faut les respecter : [NomDuService-NomDuPaquet] * : ![image](https://github.com/BilobiloIT/Paquet-sur-Ansible/assets/118860544/b21abd62-5330-4e7d-b6c3-4a3c32520ee3)
+'Il existe des formats déjà présent, je penses qu'il faut les respecter : [NomDuService-NomDuPaquet] * : ![image](https://github.com/BilobiloIT/Paquet-sur-Ansible/assets/118860544/b21abd62-5330-4e7d-b6c3-4a3c32520ee3)'
 
  - Aller dans /etc/ansible/roles : Mettre un nom de dossier
 
     > Pour mon paquet Calendrier, j'ai choisi le nom SGP-calendar
-    /Crée un dossier files* et un dossier task*
+    
+    Crée un dossier files* et un dossier task*
 
    
 <sup>*le dossier files correspond à des fichiers à copier sur les hôtes, il n'est pas nécessaire qu'il contienne quelque chose</sup>
