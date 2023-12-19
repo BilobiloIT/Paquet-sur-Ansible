@@ -10,4 +10,6 @@
 
 (Installer open-ssh sur la machine [sudo apt-get install openssh-serveur]
 1ère étape : Mettre la clé publique SSH d'Ansible sur la machine dans /root/.ssh/authorized_keys, trouvable sur le serveur lxc-ansible dans /etc/ansible/ssh-key/ansible.pub.
+
+
 2ème étape : Faire
