@@ -52,7 +52,7 @@ Pour lancer un déploiement de manière manuel il faudra renseigner un autre fic
  - Crée un fichier texte
  - Renseigner de la même manière le fichier que dans `/etc/ansible/playbooks/SGP.yml` : ![image](https://github.com/BilobiloIT/Paquet-sur-Ansible/assets/118860544/44c69406-2f77-430a-951a-324215c2db69)
 
- -
+ 
  - , rajouter en commentaire dans la première ligne la commande complète qui est *ansible-playbook [CheminVerssLeFichier.yml]*
 
 
