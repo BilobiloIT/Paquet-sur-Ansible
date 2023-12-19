@@ -30,6 +30,10 @@ __Il existe des formats déjà présent, je penses qu'il faut les respecter : [N
  - Aller dans /etc/ansible/roles : Mettre un nom de dossier 
     /Pour mon paquet Calendrier, j'ai choisi le nom SGP-calendar
     /Crée un dossier files* et un dossier task*
+
+   
 <sup>*le dossier files correspond à des fichiers à copier sur les hôtes, il n'est pas nécessaire qu'il contienne quelque chose</sup>
+
+<sup>*le dossier task doit contenir les tâches à exécuter </sup>
 
 
